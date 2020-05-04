@@ -28,4 +28,4 @@ Additionally, we constantly sent cloud requests to our cloud server, allowing da
 We wish to add an option where the user can click on annotations on the map to provide directions and distance to the location via Google Maps, Waze, or other flagship navigation applications. We also hope to polish the Restaurant Discussions to create robust speech bubbles and a better user interface.
 
 ## Authors
-Built by Kevin C, Ishan J, Neeraj R, - official submission can be found [here.](https://www.youtube.com/watch?v=3Bog5Lgk7Rs&feature=youtu.be)
+Built by Kevin C, Ishan J, Neeraj R - official submission can be found [here.](https://www.youtube.com/watch?v=3Bog5Lgk7Rs&feature=youtu.be)
