@@ -1,4 +1,4 @@
-# FoodZone
+# FoodZone Project
 
 [Fall 2019] Congressional App Challenge (CA-17) - 2nd Place Team Submission
 
